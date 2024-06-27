@@ -99,9 +99,10 @@ footer p {
 footer .social-media a {
     margin: 0 10px;
     display: inline-block;
+    color: #fff;
+    text-decoration: none;
 }
 
-footer .social-media img {
-    width: 20px;
-    height: 20px;
+footer .social-media a:hover {
+    text-decoration: underline;
 }
