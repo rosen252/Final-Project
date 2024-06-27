@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenTech Solutions - About</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="GreenTech Solutions Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">AboutGTS</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="about-content">
+        <h1>Our History</h1>
+        <p>Founded in 2020, GreenTech Solutions has been at the forefront of sustainable technology. Our journey began with a vision to provide innovative solutions that reduce environmental impact and promote renewable energy. Over the years, we have grown into a leading provider of eco-friendly products, committed to creating a greener future.</p>
+        
+        <h2>Our Mission and Vision</h2>
+        <p>Mission: Our mission is to innovate and deliver eco-friendly products that contribute to a sustainable future. We strive to provide solutions that not only meet the needs of today but also preserve the environment for future generations.</p>
+        <p>Vision: Our vision is to be a global leader in sustainable technology, inspiring and enabling a greener, healthier planet through our innovative products and services.</p>
+    </section>
+    
+    <footer>
+        <p>Contact us: info@greentechsolutions.com | (123) 456-7890</p>
+    </footer>
+</body>
+</html>

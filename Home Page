@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenTech Solutions - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="GreenTech Solutions Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">AboutGTS</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <h1>Welcome to GreenTech Solutions</h1>
+        <p>Innovative and sustainable technology solutions for a greener future.</p>
+    </section>
+    
+    <section class="featured-products">
+        <h2>Featured Products</h2>
+        <div class="product">
+            <img src="solar_panels.jpg" alt="Eco-friendly Solar Panels">
+            <p>Eco-friendly Solar Panels - Harness the power of the sun with our high-efficiency solar panels.</p>
+        </div>
+        <div class="product">
+            <img src="wind_turbines.jpg" alt="Energy-efficient Wind Turbines">
+            <p>Energy-efficient Wind Turbines - Capture wind energy with our advanced turbine technology.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>Contact us: info@greentechsolutions.com | (123) 456-7890</p>
+    </footer>
+</body>
+</html>
